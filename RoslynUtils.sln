@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynUtils", "RoslynUtils\RoslynUtils.csproj", "{33409A19-1008-44DF-9A60-3239494C7E44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynUtils.Tests", "RoslynUtils.Tests\RoslynUtils.Tests.csproj", "{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{33409A19-1008-44DF-9A60-3239494C7E44}.Release|x64.Build.0 = Release|x64
 		{33409A19-1008-44DF-9A60-3239494C7E44}.Release|x86.ActiveCfg = Release|x86
 		{33409A19-1008-44DF-9A60-3239494C7E44}.Release|x86.Build.0 = Release|x86
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Debug|x64.ActiveCfg = Debug|x64
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Debug|x64.Build.0 = Debug|x64
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Debug|x86.ActiveCfg = Debug|x86
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Debug|x86.Build.0 = Debug|x86
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Release|x64.ActiveCfg = Release|x64
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Release|x64.Build.0 = Release|x64
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Release|x86.ActiveCfg = Release|x86
+		{9818D3B8-4992-478B-9B6E-4A5403D6BFAB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
